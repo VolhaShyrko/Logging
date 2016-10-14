@@ -1,0 +1,11 @@
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounter.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounter.pdb
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounterHelper.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounterHelper.Installer.exe
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounterHelper.pdb
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\PerformanceCounterHelper.xml
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\bin\Debug\es\PerformanceCounterHelper.resources.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\obj\Debug\PerformanceCounter.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\obj\Debug\PerformanceCounter.pdb
+D:\.Net mentoring\LoggingAndMonitoring\Task\PerformanceCounter\obj\Debug\PerformanceCounter.csprojResolveAssemblyReference.cache

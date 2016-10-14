@@ -1,0 +1,8 @@
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\obj\Debug\Interop.MSUtil.dll
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\obj\Debug\LogMonitoring.csproj.ResolveComReference.cache
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\bin\Debug\LogMonitoring.exe.config
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\bin\Debug\LogMonitoring.exe
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\bin\Debug\LogMonitoring.pdb
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\obj\Debug\LogMonitoring.exe
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\obj\Debug\LogMonitoring.pdb
+D:\.Net mentoring\LoggingAndMonitoring\Task\LogMonitoring\obj\Debug\LogMonitoring.csprojResolveAssemblyReference.cache
